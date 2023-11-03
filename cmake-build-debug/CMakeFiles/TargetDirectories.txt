@@ -1,0 +1,3 @@
+C:/Users/somec/Desktop/ATM Machine Attempt 2/cmake-build-debug/CMakeFiles/ATM_Machine_Attempt_2.dir
+C:/Users/somec/Desktop/ATM Machine Attempt 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/somec/Desktop/ATM Machine Attempt 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
